@@ -25,3 +25,27 @@ p{
     width: 80%;
     padding-left: 100px;
 }
+.link-batton{
+    text-decoration: none;
+    background-color: coral;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+     color: rgb(255, 255, 255); 
+
+}
+.top-bag{
+    background-image: url(banner.png);
+    background-repeat: no-repeat;
+}
+ 
+section{
+    margin-bottom: 145px;
+    
+}
+.top{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+   
+}

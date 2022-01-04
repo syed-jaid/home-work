@@ -1,0 +1,27 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+span{
+    color: coral;
+}
+h1{
+    font-size: 55px;
+}
+section{
+    display: flex;
+}
+section{
+    padding-left: 30px; 
+    padding-top: 50px;
+    padding-right: 30px;
+}
+p{
+    text-align: justify;
+}
+.hafe{
+    width: 50%;
+}
+.hafe img{
+    width: 80%;
+    padding-left: 100px;
+}

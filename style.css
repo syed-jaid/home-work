@@ -1,4 +1,5 @@
-body{
+body{ 
+    background-color: rgb(254, 255, 255);
     font-family: 'Rubik', sans-serif;
 }
 span{
@@ -32,6 +33,7 @@ p{
     border-radius: 5px;
     font-weight: 700;
      color: rgb(255, 255, 255); 
+    box-shadow: 9px 9px 9px  rgb(44, 238, 245);
 
 }
 .top-bag{
@@ -52,3 +54,43 @@ section{
 
 .h2cang{
 font-size: 50px}
+
+.box-shado{
+padding-left:70px ;
+padding-right: 70px; ;
+padding-bottom: 50px;
+}
+.box--lime{
+    text-align: justify;
+}
+#last-bg{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+}
+.box-shado{
+    box-shadow: 10px 10px 20px rgb(52, 253, 243);
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+}
+#canter{
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(52, 253, 243);
+}
+#boderer{
+    border-left: 7px solid ;
+    border-image: linear-gradient( cyan, blue);
+    border-image-slice: 1;
+}
+#bodererer{
+    border-left: 7px solid ;
+    border-image: linear-gradient( rgb(250, 228, 106),tomato );
+    border-image-slice: 1;
+}
+.hilight{
+   text-shadow: 5px 5px 5px  rgb(44, 238, 245);
+
+}
+#hero{
+    text-align: center;
+}
